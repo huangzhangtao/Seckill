@@ -7,11 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5b494d6-0b30-423f-97bf-9aa7eb943c25" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/sql/seckill.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/seckill/dao/SeckillDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/seckill/dao/SeckillDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/seckill/service/Seckillservice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/seckill/service/Seckillservice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/seckill/service/impl/SeckillServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/seckill/service/impl/SeckillServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +103,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../项目源码/seckill-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/sql" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -128,6 +125,7 @@
       <recent name="org.seckill.dao.cache" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hztyz\Desktop\CODE\Seckill\src\main\sql" />
       <recent name="D:\Code\Java\seckill\src\main\webapp\WEB-INF\jsp\common" />
       <recent name="D:\Code\Java\seckill\src\main\webapp" />
       <recent name="D:\Code\Java\seckill\src\main\resources" />
@@ -346,7 +344,7 @@
       <workItem from="1582363514774" duration="3773000" />
       <workItem from="1582368713119" duration="2292000" />
       <workItem from="1583833631209" duration="4320000" />
-      <workItem from="1583931789459" duration="2129000" />
+      <workItem from="1583931789459" duration="2393000" />
     </task>
     <servers />
   </component>
